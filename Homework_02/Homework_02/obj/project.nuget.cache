@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zf6Fe/pGBmNZRON7/uWq3joNUiRzhee+8Q7ZxjR/pQCVBf37Te77qzEqgxYmwpMQLw3jl0d/0BPimQz2JJbGWA==",
+  "success": true,
+  "projectFilePath": "/home/andrey/Yandex.Disk/Repositories/skillbox_homework/Homework_02/Homework_02/Homework_02.csproj",
+  "expectedPackageFiles": [
+    "/home/andrey/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.16/microsoft.netcore.app.host.linux-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ezSLAupXoAm+vKTWy9RP2R2MlcCh7UiC1Rimocu38pTfbRK4Pyg0CW9Qz6t5OXHK5ZiD37NvOxjWt44GYSALw==",
+  "success": true,
+  "projectFilePath": "/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "/home/andrey/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/andrey/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

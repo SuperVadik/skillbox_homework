@@ -1,0 +1,16 @@
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/bin/Debug/net5.0/HomeWork_06
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/bin/Debug/net5.0/HomeWork_06.deps.json
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/bin/Debug/net5.0/HomeWork_06.runtimeconfig.json
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/bin/Debug/net5.0/HomeWork_06.runtimeconfig.dev.json
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/bin/Debug/net5.0/HomeWork_06.dll
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/bin/Debug/net5.0/ref/HomeWork_06.dll
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/bin/Debug/net5.0/HomeWork_06.pdb
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.csprojAssemblyReference.cache
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.AssemblyInfoInputs.cache
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.AssemblyInfo.cs
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.csproj.CoreCompileInputs.cache
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.dll
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/ref/HomeWork_06.dll
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.pdb
+/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_06/HomeWork_06/obj/Debug/net5.0/HomeWork_06.genruntimeconfig.cache

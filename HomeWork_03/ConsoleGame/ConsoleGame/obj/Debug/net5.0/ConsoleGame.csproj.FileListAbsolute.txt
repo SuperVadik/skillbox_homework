@@ -1,0 +1,16 @@
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.deps.json
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.runtimeconfig.json
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.runtimeconfig.dev.json
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.dll
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ref/ConsoleGame.dll
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.pdb
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.csprojAssemblyReference.cache
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.AssemblyInfoInputs.cache
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.AssemblyInfo.cs
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.csproj.CoreCompileInputs.cache
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.dll
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ref/ConsoleGame.dll
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.pdb
+/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/bin/Debug/netcoreapp3.1/Homework_02
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/bin/Debug/netcoreapp3.1/Homework_02.deps.json
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/bin/Debug/netcoreapp3.1/Homework_02.runtimeconfig.json
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/bin/Debug/netcoreapp3.1/Homework_02.runtimeconfig.dev.json
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/bin/Debug/netcoreapp3.1/Homework_02.dll
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/bin/Debug/netcoreapp3.1/Homework_02.pdb
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/obj/Debug/netcoreapp3.1/Homework_02.csprojAssemblyReference.cache
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/obj/Debug/netcoreapp3.1/Homework_02.AssemblyInfoInputs.cache
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/obj/Debug/netcoreapp3.1/Homework_02.AssemblyInfo.cs
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/obj/Debug/netcoreapp3.1/Homework_02.csproj.CoreCompileInputs.cache
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/obj/Debug/netcoreapp3.1/Homework_02.dll
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/obj/Debug/netcoreapp3.1/Homework_02.pdb
+/home/andrey/RiderProjects/homeworks/Homework_02/Homework_02/obj/Debug/netcoreapp3.1/Homework_02.genruntimeconfig.cache
