@@ -3,34 +3,64 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using EmployeeData.Models;
 
-namespace Diary.Components
+namespace EmployeeData.Components
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class FileMethods
     {
         /// <summary>
         /// 
         /// </summary>
-        private static readonly string FileName = "Diary.txt";
-        
+        private static string _fileName = "Diary.txt";
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="fileName"></param>
+        internal FileMethods(string fileName = "")
+        {
+            if (!string.IsNullOrEmpty(fileName))
+            {
+                _fileName = fileName;
+            }
+        }
+
         /// <summary>
         /// Чтение файла
         /// </summary>
         /// <returns></returns>
-        private static List<Diary> ReadNumber()
+        internal static string[] ReadFile()
         {
-            List<Diary> diaryModelList = new List<Diary>();
-            if (!File.Exists(FileName))
+            if (!FindFile())
+            {
+                throw new Exception("Файл отсутствует");
+            }
+            return File.ReadAllLines(_fileName, Encoding.Unicode);
+        }
+
+        /// <summary>
+        /// Записать файл
+        /// </summary>
+        /// <param name="fileRows"></param>
+        public static void WriteFile(string[] fileRows)
+        {
+            if (!FindFile())
             {
                 CreateEmptyFile();
             }
             else
             {
-                var stringArray = File.ReadAllLines(FileName, Encoding.Unicode);
-                diaryModelList.AddRange(stringArray.Select(str => new Diary(str)));
+                ClearFile();
             }
-
-            return diaryModelList;
+            using var sw = new StreamWriter(_fileName, true, Encoding.Unicode);
+            foreach (var row in fileRows)
+            {
+                sw.WriteLine(row);
+            }
         }
 
         /// <summary>
@@ -38,12 +68,25 @@ namespace Diary.Components
         /// </summary>
         private static void CreateEmptyFile()
         {
-            File.Create(FileName);
+            File.Create(_fileName);
         }
-        
-        public static void Find()
+
+        /// <summary>
+        /// Очистка текста
+        /// </summary>
+        /// <param name="path"></param>
+        private static void ClearFile()
         {
-            
+            File.WriteAllText(_fileName, string.Empty);
+        }
+
+        /// <summary>
+        /// Поиск файла
+        /// </summary>
+        /// <param name="path"></param>
+        private static bool FindFile()
+        {
+            return File.Exists(_fileName);
         }
     }
 }

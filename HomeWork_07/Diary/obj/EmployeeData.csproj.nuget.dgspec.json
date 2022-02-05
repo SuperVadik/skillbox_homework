@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\Diary.csproj": {}
+    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj": {}
   },
   "projects": {
-    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\Diary.csproj": {
+    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\Diary.csproj",
-        "projectName": "Diary",
-        "projectPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\Diary.csproj",
+        "projectUniqueName": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj",
+        "projectName": "EmployeeData",
+        "projectPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj",
         "packagesPath": "C:\\Users\\ml\\.nuget\\packages\\",
         "outputPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\obj\\",
         "projectStyle": "PackageReference",
