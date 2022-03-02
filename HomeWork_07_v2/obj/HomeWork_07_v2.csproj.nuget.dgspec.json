@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj": {}
+    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj": {}
   },
   "projects": {
-    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj": {
+    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj",
-        "projectName": "EmployeeData",
-        "projectPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj",
+        "projectUniqueName": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj",
+        "projectName": "HomeWork_07_v2",
+        "projectPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj",
         "packagesPath": "C:\\Users\\ml\\.nuget\\packages\\",
-        "outputPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\obj\\",
+        "outputPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ml\\AppData\\Roaming\\NuGet\\NuGet.Config",

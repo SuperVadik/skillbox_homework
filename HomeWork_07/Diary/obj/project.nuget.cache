@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h7WD2h5tGCoAGaGoVBxLxmea8EY73OKd+VNpQfImMz5AdYf81BqvkXa3vALCwbiHLaSLCugFehvbaNY7jjVaCg==",
+  "dgSpecHash": "UgvB4OymXwy6r9ybJTJumR1OpoXUbRZ3IHpEIpb2EDktAbx6QMrAJPeGd4oP0rQY6s5DL18x3rntUxIp7GVCiQ==",
   "success": true,
   "projectFilePath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07\\Diary\\EmployeeData.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ml\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
-    "C:\\Users\\ml\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\ml\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\ml\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

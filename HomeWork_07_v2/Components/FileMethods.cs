@@ -1,11 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
-using EmployeeData.Models;
+using System.Threading.Tasks;
 
-namespace EmployeeData.Components
+namespace HomeWork_07_v2.Components
 {
     /// <summary>
     /// 
@@ -39,7 +38,7 @@ namespace EmployeeData.Components
             {
                 throw new Exception("Файл отсутствует");
             }
-            return File.ReadAllLines(_fileName, Encoding.Unicode);
+            return File.ReadAllLines(_fileName, Encoding.Default);
         }
 
         /// <summary>

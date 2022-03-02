@@ -1,0 +1,15 @@
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\bin\Debug\net6.0\EmployeeData.exe
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\bin\Debug\net6.0\EmployeeData.deps.json
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\bin\Debug\net6.0\EmployeeData.runtimeconfig.json
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\bin\Debug\net6.0\EmployeeData.dll
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\bin\Debug\net6.0\ref\EmployeeData.dll
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\bin\Debug\net6.0\EmployeeData.pdb
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.csproj.AssemblyReference.cache
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.AssemblyInfoInputs.cache
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.AssemblyInfo.cs
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.dll
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\ref\EmployeeData.dll
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.pdb
+D:\YandexDisk\Repositories\skillbox_homework\HomeWork_07\Diary\obj\Debug\net6.0\EmployeeData.genruntimeconfig.cache
