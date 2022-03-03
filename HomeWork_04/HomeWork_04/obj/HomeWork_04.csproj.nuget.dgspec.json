@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_04/HomeWork_04/HomeWork_04.csproj": {}
+    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_04\\HomeWork_04\\HomeWork_04.csproj": {}
   },
   "projects": {
-    "/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_04/HomeWork_04/HomeWork_04.csproj": {
+    "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_04\\HomeWork_04\\HomeWork_04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_04/HomeWork_04/HomeWork_04.csproj",
+        "projectUniqueName": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_04\\HomeWork_04\\HomeWork_04.csproj",
         "projectName": "HomeWork_04",
-        "projectPath": "/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_04/HomeWork_04/HomeWork_04.csproj",
-        "packagesPath": "/home/andrey/.nuget/packages/",
-        "outputPath": "/home/andrey/Yandex.Disk/Repositories/skillbox_homework/HomeWork_04/HomeWork_04/obj/",
+        "projectPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_04\\HomeWork_04\\HomeWork_04.csproj",
+        "packagesPath": "C:\\Users\\ml\\.nuget\\packages\\",
+        "outputPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_04\\HomeWork_04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/andrey/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ml\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.206/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

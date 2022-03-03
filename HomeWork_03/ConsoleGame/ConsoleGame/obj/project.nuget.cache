@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0ezSLAupXoAm+vKTWy9RP2R2MlcCh7UiC1Rimocu38pTfbRK4Pyg0CW9Qz6t5OXHK5ZiD37NvOxjWt44GYSALw==",
+  "dgSpecHash": "7iqg0gYsVJxiEXDtaFMz9Dpztzr2yzAoToPdIaMqotsRQyyWjvRiYVOwjByfA0YMb+ZC9X3Jix2kGTX+tk5RNQ==",
   "success": true,
-  "projectFilePath": "/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/ConsoleGame.csproj",
+  "projectFilePath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_03\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
   "expectedPackageFiles": [
-    "/home/andrey/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/andrey/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\ml\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\ml\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ml\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ml\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

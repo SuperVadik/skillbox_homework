@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/andrey/.nuget/packages/": {}
+    "C:\\Users\\ml\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/ConsoleGame.csproj",
+      "projectUniqueName": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_03\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
       "projectName": "ConsoleGame",
-      "projectPath": "/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/ConsoleGame.csproj",
-      "packagesPath": "/home/andrey/.nuget/packages/",
-      "outputPath": "/home/andrey/RiderProjects/homeworks/HomeWork_03/ConsoleGame/ConsoleGame/obj/",
+      "projectPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_03\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+      "packagesPath": "C:\\Users\\ml\\.nuget\\packages\\",
+      "outputPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_03\\ConsoleGame\\ConsoleGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/andrey/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ml\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,15 @@
             "version": "[5.0.0, 5.0.0]"
           },
           {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
             "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
             "version": "[5.0.0, 5.0.0]"
           }
         ],
@@ -68,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
