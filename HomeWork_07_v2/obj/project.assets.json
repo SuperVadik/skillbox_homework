@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj",
+      "projectUniqueName": "D:\\OneDrive\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj",
       "projectName": "HomeWork_07_v2",
-      "projectPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj",
+      "projectPath": "D:\\OneDrive\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\HomeWork_07_v2.csproj",
       "packagesPath": "C:\\Users\\ml\\.nuget\\packages\\",
-      "outputPath": "D:\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\obj\\",
+      "outputPath": "D:\\OneDrive\\YandexDisk\\Repositories\\skillbox_homework\\HomeWork_07_v2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ml\\AppData\\Roaming\\NuGet\\NuGet.Config",

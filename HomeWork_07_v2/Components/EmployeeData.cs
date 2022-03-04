@@ -119,6 +119,16 @@ namespace HomeWork_07_v2.Components
         }
 
         /// <summary>
+        /// Получить сотрудника по Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        internal Employee GetEmployeeById(int id)
+        {
+            return _employeeList.FirstOrDefault(c => c.Id == id);
+        }
+
+        /// <summary>
         /// Загрузка записей в выбранном диапазоне дат
         /// </summary>
         /// <param name="ent"></param>
@@ -219,7 +229,16 @@ namespace HomeWork_07_v2.Components
         /// <param name="id">Идентификатор сотрудника</param>
         internal void DeleteEmployee(int id)
         {
-            var emp = _employeeList.FirstOrDefault(c => c.Id == id);
+            var emp = GetEmployeeById(id);
+            DeleteEmployee(emp);
+        }
+
+        /// <summary>
+        /// Удаление записи
+        /// </summary>
+        /// <param name="id">Идентификатор сотрудника</param>
+        internal void DeleteEmployee(Employee emp)
+        {
             _employeeList.Remove(emp);
         }
 

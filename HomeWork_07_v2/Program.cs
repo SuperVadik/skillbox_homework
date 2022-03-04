@@ -32,6 +32,23 @@ employeeData.UpdateEmployee(3, $"ФИО-{index}", index.ToString(), index.ToStri
 Console.WriteLine("=======================");
 employeeData.ViewAllRecord(employeeData.SortData(SortType.asc, Entity.BirthDate));
 
+//Получение сотрудника по Id
+Console.WriteLine("=======================");
+int empId = 3;
+var emp = employeeData.GetEmployeeById(empId);
+if (emp != null)
+{
+    employeeData.ViewRecord(emp);
+}
+else
+{
+    Console.WriteLine($"Сотрудник с Id={empId} не найден");
+}
+
+//Удаление сотрудника
+Console.WriteLine("=======================");
+employeeData.DeleteEmployee(empId);
+employeeData.ViewAllRecord(employeeData.GetEmployeeList());
 
 FileMethods.WriteFile(employeeData.GetEmployeeList().Select(c => Employee.EmployeeToString(c)).ToArray());
 
