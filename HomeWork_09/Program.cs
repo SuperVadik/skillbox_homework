@@ -32,7 +32,8 @@ namespace HomeWork_09
         /// <summary>
         /// Токен для бота
         /// </summary>
-        static BotToken? _botToken = JsonConvert.DeserializeObject<BotToken>(System.IO.File.ReadAllText(@"D:\Bot_Token.json"));
+        private static BotToken? _botToken =
+            JsonConvert.DeserializeObject<BotToken>(System.IO.File.ReadAllText(@"D:\Bot_Token.json"));
 
         /// <summary>
         /// Инициализация бота
@@ -127,14 +128,16 @@ namespace HomeWork_09
                     case MessageType.Text:
                         if (update.Message.Text == "/start")
                         {
-                            await _bot.SendTextMessageAsync(update.Message.Chat.Id, $"Привет {update.Message.From.Username}", cancellationToken: arg3);
+                            await _bot.SendTextMessageAsync(update.Message.Chat.Id,
+                                $"Привет {update.Message.From.Username}", cancellationToken: arg3);
                         }
                         else if (update.Message.Text == "/all")
                         {
                             var fileList = GetFileList();
                             if (!fileList.Any())
                             {
-                                await _bot.SendTextMessageAsync(update.Message.Chat.Id, $"Файлы отсутствуют", cancellationToken: arg3);
+                                await _bot.SendTextMessageAsync(update.Message.Chat.Id, $"Файлы отсутствуют",
+                                    cancellationToken: arg3);
                                 break;
                             }
                                 
@@ -143,12 +146,14 @@ namespace HomeWork_09
                                 var botUpdateInfo =
                                     botUpdates.FirstOrDefault(c => fileInfo.Name.Contains(c.TelegramFile.FileId));
                                 await _bot.SendDocumentAsync(update.Message.Chat.Id,
-                                    new InputMedia(fileInfo.OpenRead(), botUpdateInfo.TelegramFile.FileName), cancellationToken: arg3);
+                                    new InputMedia(fileInfo.OpenRead(), botUpdateInfo.TelegramFile.FileName),
+                                    cancellationToken: arg3);
                             }
                         }
                         else if (update.Message.Text[0] == '/')
                         {
-                            await _bot.SendTextMessageAsync(update.Message.Chat.Id, $"{update.Message.Text} не является командой", cancellationToken: arg3);
+                            await _bot.SendTextMessageAsync(update.Message.Chat.Id,
+                                $"{update.Message.Text} не является командой", cancellationToken: arg3);
                         }
                         break;
                 }

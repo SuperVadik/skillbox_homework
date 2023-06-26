@@ -74,7 +74,7 @@ namespace HomeWork_07_v2.Components
         /// Очистка текста
         /// </summary>
         /// <param name="path"></param>
-        private static void ClearFile()
+        internal static void ClearFile()
         {
             File.WriteAllText(_fileName, string.Empty);
         }
